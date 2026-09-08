@@ -1,638 +1,8 @@
 {
-  "generatedAt": "2026-09-08T00:59:06+00:00",
+  "generatedAt": "2026-09-08T07:56:19+00:00",
   "sourceUrl": "https://www.police.pref.hyogo.lg.jp/traffic/violation/jyouho/index.htm",
   "disclaimer": "公開情報は変更される場合があり、掲載場所以外でも取締りは行われます。",
   "plans": [
-    {
-      "date": "2026-08-17",
-      "district": "神戸",
-      "route": "国道2号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "阪神",
-      "route": "県道川西篠山線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "東播",
-      "route": "国道175号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "西播",
-      "route": "国道29号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "但馬",
-      "route": "県道物部藪崎線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "淡路",
-      "route": "県道大谷鮎原神代線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-17",
-      "district": "高速",
-      "route": "第二神明道路",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "神戸",
-      "route": "県道灘三田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "阪神",
-      "route": "県道尼崎宝塚線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "東播",
-      "route": "県道神戸加東線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "西播",
-      "route": "県道宍粟下徳久線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "但馬",
-      "route": "国道9号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "淡路",
-      "route": "県道阿万福良湊線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-18",
-      "district": "高速",
-      "route": "播但連絡道路",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "神戸",
-      "route": "県道神戸三木線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "阪神",
-      "route": "県道上荒川三田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "東播",
-      "route": "国道175号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "西播",
-      "route": "国道372号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "但馬",
-      "route": "国道178号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "淡路",
-      "route": "県道志筑郡家線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-19",
-      "district": "高速",
-      "route": "阪神高速湾岸線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "神戸",
-      "route": "県道明石神戸宝塚線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "阪神",
-      "route": "県道川西篠山線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "東播",
-      "route": "県道高砂北条線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "西播",
-      "route": "国道179号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "但馬",
-      "route": "県道十戸養父線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "淡路",
-      "route": "国道28号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-20",
-      "district": "高速",
-      "route": "舞鶴若狭自動車道",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "神戸",
-      "route": "県道平野三木線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "阪神",
-      "route": "県道尼崎池田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "東播",
-      "route": "県道西脇三田線",
-      "content": "飲酒"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "西播",
-      "route": "国道2号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "但馬",
-      "route": "国道312号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "淡路",
-      "route": "県道阿万福良湊線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-21",
-      "district": "高速",
-      "route": "阪神高速神戸線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "神戸",
-      "route": "国道2号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "阪神",
-      "route": "国道176号",
-      "content": "飲酒"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "東播",
-      "route": "県道高砂北条線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "西播",
-      "route": "県道加美宍粟線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "但馬",
-      "route": "国道9号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "淡路",
-      "route": "国道28号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-22",
-      "district": "高速",
-      "route": "中国縦貫自動車道",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "神戸",
-      "route": "国道175号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "阪神",
-      "route": "県道尼崎池田線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "東播",
-      "route": "県道高砂加古川加西線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "西播",
-      "route": "県道甘地福崎線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "但馬",
-      "route": "国道312号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "淡路",
-      "route": "県道阿那賀市線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-23",
-      "district": "高速",
-      "route": "山陽自動車道",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "神戸",
-      "route": "県道明石神戸宝塚線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "阪神",
-      "route": "県道川西篠山線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "東播",
-      "route": "県道西脇八千代市川線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "西播",
-      "route": "県道養父宍粟線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "但馬",
-      "route": "県道物部藪崎線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "淡路",
-      "route": "県道阿万福良湊線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-24",
-      "district": "高速",
-      "route": "加古川バイパス",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "神戸",
-      "route": "市道長田箕谷線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "阪神",
-      "route": "国道43号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "東播",
-      "route": "県道明石高砂線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "西播",
-      "route": "国道29号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "但馬",
-      "route": "国道178号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "淡路",
-      "route": "国道28号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-25",
-      "district": "高速",
-      "route": "阪神高速北神戸線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "神戸",
-      "route": "県道灘三田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "阪神",
-      "route": "国道171号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "東播",
-      "route": "国道2号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "西播",
-      "route": "県道宍粟下徳久線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "但馬",
-      "route": "国道426号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "淡路",
-      "route": "県道志筑郡家線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-26",
-      "district": "高速",
-      "route": "新名神高速道路",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "神戸",
-      "route": "市道山手幹線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "阪神",
-      "route": "県道川西三田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "東播",
-      "route": "県道広野永福線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "西播",
-      "route": "県道宍粟新宮線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "但馬",
-      "route": "国道312号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "淡路",
-      "route": "県道大谷鮎原神代線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-27",
-      "district": "高速",
-      "route": "播但連絡道路",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "神戸",
-      "route": "国道2号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "阪神",
-      "route": "国道176号",
-      "content": "飲酒"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "東播",
-      "route": "県道大塩別所線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "西播",
-      "route": "県道周世尾崎線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "但馬",
-      "route": "国道312号",
-      "content": "飲酒"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "淡路",
-      "route": "県道大谷鮎原神代線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-28",
-      "district": "高速",
-      "route": "阪神高速湾岸線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "神戸",
-      "route": "市道山手幹線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "阪神",
-      "route": "国道171号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "東播",
-      "route": "国道175号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "西播",
-      "route": "国道2号",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "但馬",
-      "route": "国道9号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "淡路",
-      "route": "国道28号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-29",
-      "district": "高速",
-      "route": "神戸淡路鳴門自動車道",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "神戸",
-      "route": "県道小部明石線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "阪神",
-      "route": "県道川西三田線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "東播",
-      "route": "国道2号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "西播",
-      "route": "国道250号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "但馬",
-      "route": "国道312号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "淡路",
-      "route": "県道志筑郡家線",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-30",
-      "district": "高速",
-      "route": "舞鶴若狭自動車道",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "神戸",
-      "route": "市道山手幹線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "阪神",
-      "route": "県道福知山山南線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "東播",
-      "route": "国道372号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "西播",
-      "route": "国道2号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "但馬",
-      "route": "国道9号",
-      "content": "交差点関連"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "淡路",
-      "route": "県道洲本五色線",
-      "content": "速度"
-    },
-    {
-      "date": "2026-08-31",
-      "district": "高速",
-      "route": "第二神明道路",
-      "content": "速度"
-    },
     {
       "date": "2026-09-01",
       "district": "神戸",
@@ -1303,6 +673,594 @@
       "date": "2026-09-16",
       "district": "高速",
       "route": "加古川バイパス",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "神戸",
+      "route": "県道神戸明石線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "阪神",
+      "route": "県道大沢西宮線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "西播",
+      "route": "県道相生停車場線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "但馬",
+      "route": "国道312号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "淡路",
+      "route": "県道上内膳塩尾線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-17",
+      "district": "高速",
+      "route": "播但連絡道路",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "阪神",
+      "route": "県道能勢猪名川線",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "東播",
+      "route": "県道神戸加東線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "西播",
+      "route": "国道312号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "但馬",
+      "route": "国道9号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "淡路",
+      "route": "県道阿万福良湊線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-18",
+      "district": "高速",
+      "route": "阪神高速神戸線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "阪神",
+      "route": "市道山手幹線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "東播",
+      "route": "県道上鴨川西脇線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "西播",
+      "route": "国道2号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "但馬",
+      "route": "国道178号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "淡路",
+      "route": "県道福良江井岩屋線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-19",
+      "district": "高速",
+      "route": "神戸淡路鳴門自動車道",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "神戸",
+      "route": "市道中央幹線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "阪神",
+      "route": "県道尼崎宝塚線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "西播",
+      "route": "県道網干たつの線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "但馬",
+      "route": "国道312号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "淡路",
+      "route": "県道阿那賀市線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-20",
+      "district": "高速",
+      "route": "中国縦貫自動車道",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "神戸",
+      "route": "県道明石神戸宝塚線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "阪神",
+      "route": "国道43号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "東播",
+      "route": "国道372号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "西播",
+      "route": "国道250号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "但馬",
+      "route": "県道十二所澤線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "淡路",
+      "route": "国道28号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-21",
+      "district": "高速",
+      "route": "加古川バイパス",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "神戸",
+      "route": "県道三木三田線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "阪神",
+      "route": "県道上荒川三田線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "東播",
+      "route": "国道250号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "西播",
+      "route": "国道2号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "但馬",
+      "route": "国道9号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "淡路",
+      "route": "県道福良江井岩屋線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-22",
+      "district": "高速",
+      "route": "阪神高速湾岸線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "神戸",
+      "route": "市道中央幹線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "阪神",
+      "route": "国道43号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "西播",
+      "route": "国道250号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "但馬",
+      "route": "県道香美久美浜線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "淡路",
+      "route": "県道大谷鮎原神代線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-23",
+      "district": "高速",
+      "route": "新名神高速道路",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "阪神",
+      "route": "県道篠山山南線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "西播",
+      "route": "国道29号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "但馬",
+      "route": "国道178号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "淡路",
+      "route": "県道阿万福良湊線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-24",
+      "district": "高速",
+      "route": "山陽自動車道",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "神戸",
+      "route": "市道垂水妙法寺線",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "阪神",
+      "route": "国道176号",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "東播",
+      "route": "国道427号",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "西播",
+      "route": "国道250号",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "但馬",
+      "route": "国道312号",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "淡路",
+      "route": "県道大谷鮎原神代線",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-25",
+      "district": "高速",
+      "route": "阪神高速神戸線",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "阪神",
+      "route": "国道171号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "西播",
+      "route": "県道姫路神河線",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "但馬",
+      "route": "国道9号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "淡路",
+      "route": "国道28号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-26",
+      "district": "高速",
+      "route": "舞鶴若狭自動車道",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "神戸",
+      "route": "市道山手幹線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "阪神",
+      "route": "国道43号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "東播",
+      "route": "国道2号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "西播",
+      "route": "国道250号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "但馬",
+      "route": "県道十二所澤線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "淡路",
+      "route": "県道志筑郡家線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-27",
+      "district": "高速",
+      "route": "播但連絡道路",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "阪神",
+      "route": "県道尼崎池田線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "西播",
+      "route": "国道372号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "但馬",
+      "route": "国道178号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "淡路",
+      "route": "県道阿万福良湊線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-28",
+      "district": "高速",
+      "route": "阪神高速北神戸線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "神戸",
+      "route": "県道灘三田線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "阪神",
+      "route": "国道43号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "東播",
+      "route": "県道神戸加東線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "西播",
+      "route": "国道29号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "但馬",
+      "route": "国道9号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "淡路",
+      "route": "県道広田洲本線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-29",
+      "district": "高速",
+      "route": "播但連絡道路",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "神戸",
+      "route": "国道2号",
+      "content": "飲酒"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "阪神",
+      "route": "国道372号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "東播",
+      "route": "国道175号",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "西播",
+      "route": "国道312号",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "但馬",
+      "route": "県道十二所澤線",
+      "content": "交差点関連"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "淡路",
+      "route": "県道福良江井岩屋線",
+      "content": "速度"
+    },
+    {
+      "date": "2026-09-30",
+      "district": "高速",
+      "route": "第二神明道路",
       "content": "速度"
     }
   ]
